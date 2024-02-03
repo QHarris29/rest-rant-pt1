@@ -1,0 +1,16 @@
+{
+  "name": "rest-rant-pt1",
+  "version": "1.0.0",
+  "description": "A Restaurant rating app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "Quintin Harris",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.1",
+    "express": "^4.18.2"
+  }
+}
